@@ -6,7 +6,7 @@ import java.util.Random;   // Needed for Random class
    Comp. Prog. II 5:20PM - 7:35PM
    Fiterman Hall 906 
    Instructor: Alam Miah
-   RainFall Test Program Chapter 7 #10
+   Lottery Test Program Chapter 7 #10
 */
 
 public class Lottery
